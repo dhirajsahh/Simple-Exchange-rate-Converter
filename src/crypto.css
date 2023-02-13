@@ -1,0 +1,18 @@
+.form-inner{
+    margin-top: 10px;
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+}
+.inputcontainer{
+   width: 300px;
+   margin-inline: auto;
+}
+.buttoncontainer{
+    display: flex;
+    justify-content: center;
+}
+
+p{
+    text-align: center;
+}
